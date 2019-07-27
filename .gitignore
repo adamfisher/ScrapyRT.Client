@@ -1,0 +1,6 @@
+.vs/
+ScarpyRT.Client/obj/
+ScrapyRT.Client.Tests/bin/
+ScarpyRT.Client/bin/Debug/netstandard2.0/ScarpyRT.Client.deps.json
+ScarpyRT.Client/bin/
+ScrapyRT.Client.Tests/obj/

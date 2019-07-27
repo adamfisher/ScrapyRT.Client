@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScarpyRT.Client", "ScarpyRT.Client\ScarpyRT.Client.csproj", "{2698BB9B-11EC-4DE0-BEDF-B98BFCF9F3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapyRT.Client.Tests", "ScrapyRT.Client.Tests\ScrapyRT.Client.Tests.csproj", "{E9952A98-18AA-4905-81FB-6661C0DE5D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2698BB9B-11EC-4DE0-BEDF-B98BFCF9F3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2698BB9B-11EC-4DE0-BEDF-B98BFCF9F3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2698BB9B-11EC-4DE0-BEDF-B98BFCF9F3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2698BB9B-11EC-4DE0-BEDF-B98BFCF9F3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9952A98-18AA-4905-81FB-6661C0DE5D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9952A98-18AA-4905-81FB-6661C0DE5D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9952A98-18AA-4905-81FB-6661C0DE5D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9952A98-18AA-4905-81FB-6661C0DE5D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3CBB88-96C9-4A2D-8407-5EDACDA3629A}
+	EndGlobalSection
+EndGlobal
